@@ -1,59 +1,43 @@
-## Hi there 👋
+# 👨‍💻 Senior Full Stack Developer
 
-# Hi, I'm Gold Dev! 🚀  
-### Full Stack Developer | Tech Enthusiast | Problem Solver
+I am a **Senior Full-Stack Developer** with 12 years of experience in building scalable web applications and services. I specialize in both frontend and backend technologies, offering a versatile skill set for a wide range of development needs.
 
-I'm a passionate full-stack developer with a focus on building efficient and scalable web applications. I love exploring new technologies and pushing the limits of what I can do.
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" alt="AWS" />
-</p>
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 
----
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
-### 📈 GitHub Stats:
+### 🛠 Tools & Technologies
+
+- Version Control: `Git`, `GitHub`, `GitLab`
+- CI/CD: `Jenkins`, `GitHub Actions`, `Selenium`
+- DevOps: `Docker`, `Kubernetes`, `AWS`, `Aure`, `GCP`
+- BaaS: `Heroku`, `Firebase`, `Amplify`
+
+## 🌟 GitHub Stats
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=topskydev55&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
----
-
-### 🔥 My Tech Stack:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,nodejs,express,python,docker,mongodb,mysql,git,aws" />
-</div>
-
----
-
-### 🚀 About Me:
-- 🎯 Full-Stack Developer with expertise in **React**, **Redux**, **Node.js**, and **TypeScript**.
-- 🧠 Passionate about learning new technologies and improving software development practices.
-- 👨‍🏫 Enjoy mentoring and collaborating with other developers.
-- 🌱 Currently diving deeper into **Cloud Computing** and **Microservices Architecture**.
-- 🎨 Always striving to improve **UI/UX** to make applications more user-friendly.
-
----
-
-### 📺 Fun Facts:
-- 🎸 I enjoy playing guitar and experimenting with music production.
-- 📚 Love reading about the latest tech trends and contributing to open-source projects.
-- 🌍 Enjoy connecting with developers from around the world and learning from different perspectives.
-
----
-
-![Snake animation](https://raw.githubusercontent.com/your-username/your-repository/output/snake.svg)
