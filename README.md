@@ -1,6 +1,6 @@
 # 👨‍💻 Senior Full Stack Developer
 
-I am a **Senior Full-Stack Developer** with 12 years of experience in building scalable web applications and services. I specialize in both frontend and backend technologies, offering a versatile skill set for a wide range of development needs.
+I am a **Senior Full-Stack Developer** with 7 years of experience in building scalable web applications and services. I specialize in both frontend and backend technologies, offering a versatile skill set for a wide range of development needs.
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
