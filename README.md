@@ -1,43 +1,49 @@
-# 👨‍💻 Senior Full Stack Developer
+# 👋 Hello, I'm Gold Dev!
 
-I am a **Senior Full-Stack Developer** with 7 years of experience in building scalable web applications and services. I specialize in both frontend and backend technologies, offering a versatile skill set for a wide range of development needs.
+![Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+I'm a **Full-Stack Developer** with a passion for crafting dynamic and interactive web applications. I specialize in both frontend and backend development, with a focus on **JavaScript frameworks and libraries**, including **React, Angular,** and **Node.js**. My approach prioritizes quality and performance while ensuring maintainable and scalable solutions.
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+---
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+## 🔧 Technologies & Tools
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
 
-### 🛠 Tools & Technologies
+---
 
-- Version Control: `Git`, `GitHub`, `GitLab`
-- CI/CD: `Jenkins`, `GitHub Actions`, `Selenium`
-- DevOps: `Docker`, `Kubernetes`, `AWS`, `Aure`, `GCP`
-- BaaS: `Heroku`, `Firebase`, `Amplify`
+## 📈 GitHub Stats
 
-## 🌟 GitHub Stats
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gold-Dev-15&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
+
+## 🚀 What I Do
+
+I enjoy working on all aspects of web development, from building rich **UI experiences** with **React** or **Angular**, to creating **robust backend solutions** with **Node.js** and **Express**. Here are some highlights:
+
+- 📱 **Frontend Development:** Creating responsive and accessible web applications using **JavaScript**, **React**, **Angular**, **HTML5**, and **CSS3**.
+- 🛠️ **Backend Development:** Designing scalable and maintainable APIs using **Node.js**, **Express**, and **Python**.
+- ☁️ **Cloud & DevOps:** Leveraging **Azure services** for hosting, identity management, and serverless functions.
+- 📊 **Data Manipulation & Automation:** Experienced with **Python** and **Excel** for data tasks.
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername.visitor-badge" alt="visitor badge"/>
+</p>
+
+---
