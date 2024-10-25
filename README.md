@@ -38,9 +38,3 @@ I enjoy working on all aspects of web development, from building rich **UI exper
 - 📊 **Data Manipulation & Automation:** Experienced with **Python** and **Excel** for data tasks.
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername.visitor-badge" alt="visitor badge"/>
-</p>
-
----
