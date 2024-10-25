@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Gold Dev!
 
-![Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
-
 I'm a **Full-Stack Developer** with a passion for crafting dynamic and interactive web applications. I specialize in both frontend and backend development, with a focus on **JavaScript frameworks and libraries**, including **React, Angular,** and **Node.js**. My approach prioritizes quality and performance while ensuring maintainable and scalable solutions.
 
 ---
@@ -25,8 +23,7 @@ I'm a **Full-Stack Developer** with a passion for crafting dynamic and interacti
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gold-Dev-15&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
